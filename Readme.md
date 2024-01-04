@@ -52,15 +52,15 @@ We welcome contributions from the community to improve this project! Feel free t
 
 ## Author
 
-[Your Name]
+Gaurav Garwal
 
 ## License
 
-This project is licensed under the [License name], please refer to the `LICENSE` file for details.
+This project is licensed under the [], please refer to the `LICENSE` file for details.
 
 ## Contact
 
-Have questions or feedback? Feel free to reach out at [your email address] or create an issue on the GitHub repository.
+Have questions or feedback? Feel free to reach out at [garwalgaurav480@gmail.com] or create an issue on the GitHub repository.
 
 Enjoy generating your Laboratory Analysis Reports with ease!
 
