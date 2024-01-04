@@ -1,0 +1,9 @@
+# Core Python libraries (usually not explicitly listed)
+# tkinter
+# sys
+# os
+# datetime
+# json
+
+# Third-party libraries
+fpdf
